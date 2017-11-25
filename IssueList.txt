@@ -37,3 +37,9 @@ wpn_fps_pis_m1911_m_banana
 wpn_fps_pis_m1911_m_extended
 wpn_fps_pis_m1911_m_standard
 
+--Shotguns:
+
+Double Barrel Shotgun;
+
+wpn_fps_sho_geco_s_cheek_rest
+
