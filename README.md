@@ -3,4 +3,6 @@ This repo has one purpose, it is meant to be more of a information for the model
 
 Not only this information will be helpful to others but it'll also show the flaws with the current model tool.
 
--List of corrupted .model's has been created by me
+List of corrupted .model's has been created by me. Feel free to add the files that you, dear modder have been facing problem with.
+
+Raw Information can be found here; https://raw.githubusercontent.com/Matthelzor/RAID-WW2-Out-Of-Index-.model-List/master/IssueList.txt
