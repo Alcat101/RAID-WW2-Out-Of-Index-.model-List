@@ -43,3 +43,12 @@ Double Barrel Shotgun;
 
 wpn_fps_sho_geco_s_cheek_rest
 
+--Assault Rifle:
+
+M1 Garand;
+
+wpn_fps_ass_garand_b_standard
+wpn_fps_ass_garand_bolt_standard
+wpn_fps_ass_garand_dh_standard
+wpn_fps_ass_garand_extra1_swiwel
+wpn_fps_ass_garand_extra_swiwel
